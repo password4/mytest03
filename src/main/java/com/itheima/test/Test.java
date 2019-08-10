@@ -4,6 +4,8 @@ public class Test {
 
     private static String name ;
 
+    private static String a;
+
     private static String b;
 
     public static void main(String[] args) {
