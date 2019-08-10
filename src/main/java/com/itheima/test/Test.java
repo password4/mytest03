@@ -11,5 +11,7 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("hello world2"+name);
         System.out.println("hello world2"+b);
+        System.out.println("hello world2");
+        System.out.println("hello world2"+a);
     }
 }
